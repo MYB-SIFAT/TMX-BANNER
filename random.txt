@@ -1,0 +1,6 @@
+
+ARRAY=('eyes' 'daemon' 'blowfish' 'cheese' 'meow' 'moofasa' 'tux')
+
+RAND_STR="${ARRAY[$RANDOM % ${#ARRAY[@]}]}"
+
+cowsay -f $RAND_STR < /data/data/com.termux/files/home/TMX-Banner/cowsay.txt | lolcat
