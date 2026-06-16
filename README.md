@@ -304,7 +304,7 @@ Restores original `bash.bashrc` and `motd`, removes all TMX Banner files.
 
 ## Video Tutorial
 
-▶️ https://youtu.be/550mKWybMLc?si=EsYHMYQcNz3sc7tN
+▶️ coming soon 🔜 
 
 ---
 
